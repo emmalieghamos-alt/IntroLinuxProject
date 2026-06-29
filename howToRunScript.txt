@@ -1,3 +1,5 @@
 chmod +x install_nextcloud.sh
 
 sudo ./install_nextcloud.sh
+
+Hi Ahi
